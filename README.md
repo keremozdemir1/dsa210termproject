@@ -59,3 +59,27 @@ The goal of this project is to examine if there is a clear relationship between 
 This project will explore the connection between **daily screen time** and **calorie intake** using self-collected real-world data.  
 Through data analysis and regression modeling, it aims to determine whether higher screen exposure is linked to increased calorie consumption.
 
+---
+
+## 📊 Exploratory Data Analysis (EDA) Findings
+
+Analysis was performed using 26 days of self-collected data on screen time and calorie intake.
+
+Key Results
+
+Number of days: 26
+
+Mean screen time: 560.58 minutes/day
+
+Mean calories: 3025 kcal/day
+
+Correlation (r): 0.9550
+
+P-value: 3.66 × 10⁻¹⁴
+
+Interpretation
+
+There is a strong, statistically significant positive correlation between screen time and calorie intake.
+As screen time increases, calorie intake also tends to increase.
+This supports the hypothesis that daily smartphone use may be associated with higher daily caloric consumption.
+
